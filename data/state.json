@@ -1,0 +1,9 @@
+{
+  "was_available": false,
+  "consecutive_errors": 0,
+  "error_alerted": false,
+  "last_check": "25.09.2026 10:24:52",
+  "last_error": null,
+  "checks": 1,
+  "heartbeat_day": "2026-09-25"
+}
