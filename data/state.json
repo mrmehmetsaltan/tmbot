@@ -1,9 +1,9 @@
 {
   "was_available": false,
-  "consecutive_errors": 11,
+  "consecutive_errors": 12,
   "error_alerted": true,
-  "last_check": "22.10.2026 04:51:28",
-  "last_error": "22.10.2026 04:51:28 – 'V2' içeren model bulunamadı. Modeller: ",
-  "checks": 147,
+  "last_check": "22.10.2026 09:40:34",
+  "last_error": "22.10.2026 09:40:34 – 'V2' içeren model bulunamadı. Modeller: ",
+  "checks": 148,
   "heartbeat_day": "2026-10-22"
 }
