@@ -1,9 +1,9 @@
 {
-  "was_available": false,
+  "was_available": true,
   "consecutive_errors": 0,
   "error_alerted": false,
-  "last_check": "13.11.2026 12:56:46",
+  "last_check": "13.11.2026 20:30:12",
   "last_error": null,
-  "checks": 252,
+  "checks": 253,
   "heartbeat_day": "2026-11-13"
 }
